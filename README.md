@@ -13,7 +13,7 @@ In this tutorial, you will learn:
 
 First, clone the current repository:
 
-    git clone git@github.com:jodemaey/EDIPI-qgs-tutorial-on-predictability.git
+    git clone https://github.com/jodemaey/EDIPI-qgs-tutorial-on-predictability.git
 
 Then, to install qgs, clone the qgs repository
 
