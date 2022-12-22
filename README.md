@@ -3,7 +3,7 @@
 This series of notebooks are part of a tutorial given during the EDIPI workshop at RMI in January 2023.
 In this tutorial, you will learn:
 
-1. How to install [qgs](https://github.com/Climdyn/qgs)
+1. How to install the [qgs](https://github.com/Climdyn/qgs) framework for low-order climate and weather modeling
 2. How to run the model
 3. How to compute the largest Lyapunov exponent in the model
 4. How to compute the full Lyapunov exponent spectrum
