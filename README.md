@@ -13,14 +13,14 @@ In this tutorial, you will learn:
 
 First, clone the current repository:
 
-  git clone
+  git clone git@github.com:jodemaey/EDIPI-qgs-tutorial-on-predictability.git
 
 Then, to install qgs, clone the qgs repository
 
-  git clone 
+  git clone https://github.com/Climdyn/qgs.git
 
 and follow the [installation instructions](https://github.com/Climdyn/qgs#installation). 
-After that, you can the tutorial notebooks in `/home/jodemaey/Work/tutorials/EDIPI/EDIPI-qgs-tutorial-on-predictability` in the `qgs` folder and you are ready.
+After that, you can the tutorial notebooks in `EDIPI-qgs-tutorial-on-predictability` in the `qgs` folder and you are ready.
 Simply start the notebook server in the `qgs` folder and type:
 
   jupyter-notebook
