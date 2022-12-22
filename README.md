@@ -1,4 +1,4 @@
-# EDIPI-qgs-tutorial-on-predictability
+# EDIPI Workshop tutorial on predictabilty with qgs
 
 This series of notebooks are part of a tutorial given during the EDIPI workshop at RMI in January 2023.
 In this tutorial, you will learn:
