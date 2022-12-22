@@ -21,7 +21,7 @@ Then, to install qgs, clone the qgs repository
 
 and follow the [installation instructions](https://github.com/Climdyn/qgs#installation). 
 After that, you can the tutorial notebooks in `EDIPI-qgs-tutorial-on-predictability` in the `qgs` folder and you are ready.
-Simply start the notebook server in the `qgs` folder and type:
+Simply go in the `qgs` folder and start the notebook server by typing:
 
     jupyter-notebook
   
